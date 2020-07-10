@@ -56,6 +56,16 @@ font-size:large;
 #Subscribe h6{
     color: gray;
 }
+.new-button{
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100% );
+    color: #fff;
+    border:none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    width:50%;
+}
+
 footer{
     text-align: center;
 }
